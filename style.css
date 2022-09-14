@@ -10,13 +10,19 @@
     background: #CCCCCC;
 }
 
-h1  {
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
     text-align: center
 }
+
 
  p {
      text-align: center;
 }
+
 
 #missao {
     font-size: 20px
